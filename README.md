@@ -1,4 +1,4 @@
-![exp 2 5](https://github.com/user-attachments/assets/4e8059aa-1682-4527-b6ea-7dd7d59af573)# EXP-2
+ EXP-2
 EXPT NO: 2 OCC AND LOAD CHARACTERISTICS OF D.C SHUNT GENERATOR
 
 Aim:
